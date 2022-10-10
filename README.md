@@ -50,8 +50,14 @@ TypeScript, Express.js, MySQL, Sequelize, JWT.
 
 
 
-
-
+.env (example):
+PORT=5000
+DB_HOST=localhost
+DB_NAME=test-task-4
+DB_USERNAME=root
+DB_PASSWORD=2sdfTY78(
+JWT_ACCESS_SECRET=ACCESSS
+JWT_REFRESH_SECRET=REFRESHH
 
 
 
